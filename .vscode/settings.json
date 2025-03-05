@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dema_database",
+            "database": "demo_database",
+            "username": "postgres",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "129.232.211.166",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "vehicleinsurance",
+            "database": "vehicle_insurancedb",
+            "username": "dylan",
+            "password": "super123duper"
+        }
+    ]
+}
