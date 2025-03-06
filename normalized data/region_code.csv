@@ -1,4 +1,4 @@
-﻿region_code_rc_id,region_code_region_code
+﻿rc_id,region_code
 1,0
 2022,1
 3030,2
@@ -52,4 +52,3 @@
 370417,50
 380660,51
 380843,52
-

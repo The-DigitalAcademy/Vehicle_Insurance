@@ -1,4 +1,4 @@
-﻿policy_channel_pc_id,policy_channel_policy_channel
+﻿pc_id,policy_channel
 1,1
 1075,2
 1079,3
@@ -154,4 +154,3 @@
 356387,159
 356438,160
 378217,163
-
